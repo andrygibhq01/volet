@@ -1,1 +1,1 @@
-bash vult.sh
+!bash vult.sh
